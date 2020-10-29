@@ -68,8 +68,8 @@ net.ipv4.tcp_congestion_control = bbr
 
 另外巨硬的Windows server 2016及Windows 10应该是有类似BBR的流控协议方案
 
-希望各位玩家撸得开心 ヾ(≧O≦)〃嗷~
+希望各位玩家撸得开心 ヾ(≧O≦)〃嗷~   
 
-
+Reviewed by Liang
 
 
