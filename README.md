@@ -66,6 +66,8 @@ net.ipv4.tcp_congestion_control = bbr
 如果玩家的应用是服务器以UDP方式往外发数据，那么这个BBR可以洗洗睡了，BBR的整个原理是基于TCP的流量控制  
 那非要UDP加速呢？只能用2倍3倍暴力UDP发包的程序，这个真不在漫谈范围
 
+另外巨硬的Windows server 2016及Windows 10应该是有类似BBR的流控协议方案
+
 希望各位玩家撸得开心 ヾ(≧O≦)〃嗷~
 
 
